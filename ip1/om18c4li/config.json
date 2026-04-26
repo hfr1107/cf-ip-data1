@@ -1,0 +1,61 @@
+{
+  "randomCode": "om18c4li",
+  "randomCodeHistory": [
+    {
+      "rc": "h001",
+      "dir1": "ip1",
+      "dir2": "",
+      "prefix": "hh",
+      "repo": "cf-ip-data1",
+      "owner": "hfr1107"
+    },
+    {
+      "rc": "om18c4li",
+      "dir1": "ip1",
+      "dir2": "",
+      "prefix": "hh",
+      "repo": "cf-ip-data1",
+      "owner": "hfr1107"
+    }
+  ],
+  "tokenType": "fine",
+  "encryptedToken": "Up2UN5UcntGUBN1NMdlVyg0NyJEWMhHNqFXZahkROdFOYx2TwsWULt2VExGRWZUWjlmNXVWZEFFVEF1X1kUej1UMqRTaMV0Uwk0QXd1QXFUMx8FdhB3XiVHa0l2Z",
+  "channels": [],
+  "github": {
+    "repo": "cf-ip-data1",
+    "dir": "ip/",
+    "proxy": "https://gh-proxy.org",
+    "autoCreateRepo": true,
+    "branch": "main"
+  },
+  "validResults": [],
+  "selectedIps": [],
+  "historyRecords": [],
+  "uploadLog": {},
+  "customInput": "",
+  "privateUuid": "",
+  "privateDomain": "",
+  "privatePath": "/?ed=2560",
+  "adaptiveApi": "https://url.v1.mk/sub?target=auto&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&url=",
+  "privateSecurity": "none",
+  "privateType": "ws",
+  "privateEncryption": "none",
+  "privateFlow": "",
+  "privateAlpn": "",
+  "privateFp": "random",
+  "privateAllowInsecure": "1",
+  "privateDir1": "ip1",
+  "privateDir2": "",
+  "privateFilePrefix": "hh",
+  "scanSettings": {
+    "sourceV4": false,
+    "v4Slider": 2000,
+    "sourceV6": false,
+    "v6Slider": 1000,
+    "sourceCustom": true,
+    "expertToggle": false,
+    "threads": 0,
+    "connTimeout": 2500
+  },
+  "exportTime": 1777217724874
+}
